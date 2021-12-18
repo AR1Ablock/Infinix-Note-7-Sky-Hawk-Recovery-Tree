@@ -28,7 +28,7 @@ The Biggest Problem Solver :)
 
 The biggest Problems are Solved By "Hemanth".
 
-He Solved Mont Ponts & Encryption Problem.
+He Solved Mount Points & Encryption Problem.
 
 -------------
 His Telegram
