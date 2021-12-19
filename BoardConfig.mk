@@ -157,10 +157,11 @@ SHRP_NOTCH := true
 SHRP_SKIP_DEFAULT_ADDON_1 := true
 SHRP_SKIP_DEFAULT_ADDON_2 := true
 INC_IN_REC_ADDON_3 := true
-INC_IN_REC_ADDON_4 := true
+#INC_IN_REC_ADDON_4 := true
+SHRP_SKIP_DEFAULT_ADDON_4 := true
 SHRP_SKIP_DEFAULT_ADDON_5 := true
 SHRP_EXCLUDE_MAGISK_FLASH := true
-SHRP_LITE := true
+#SHRP_LITE := true
 
 # Setting up custom addons folder.
 SHRP_EXTERNAL_ADDON_PATH := "device/infinix/NoobUsers/recovery/root/twres/addons/"
