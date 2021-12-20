@@ -18,9 +18,9 @@ Everything.
 What's not Working
 -------------------
 
-I didn't include Flash light & theme manager 
-Due to recovery size exceeds by including them.
+I didn't include Flash light due to don't know it's path.
 
+Loop Error.
 
 ------------------------------
 The Biggest Problem Solver :)
